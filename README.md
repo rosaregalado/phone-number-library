@@ -4,3 +4,5 @@ This library takes in a string of numbers (10 digits) and return a string format
 
 -----------------------------------------------------------------------
 Tested using Jest library & Published to Npm: @rosaregalado/phone-number-library
+
+Test app: https://github.com/rosaregalado/test-app
