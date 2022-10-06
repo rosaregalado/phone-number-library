@@ -1,6 +1,6 @@
 {
-  "name": "@rosaregalado/phone-number-libraryyy",
-  "version": "1.0.0",
+  "name": "@rosaregalado/phone-number-library",
+  "version": "1.0.1",
   "description": "",
   "main": "src/index.js",
   "scripts": {
